@@ -22,7 +22,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" />
 
-### I am a Ungergrad at IIT Guwahati
+### I am an Ungergrad at IIT Guwahati
 - 🔭 I’m currently learning App Development in Kotlin :grin:
 - 🌱 I’m currently contributing to open source
 - 🥅 2020 Goals: Contribute to more Open Source projects
