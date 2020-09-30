@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p>
   <h1 align="center"><b>Howdy, I'm Ankit 👋</b></h1>
 </p>
